@@ -4,13 +4,13 @@
       "id": 1,
       "category": "Informations Générales sur l'Établissement",
       "question": "Quelle est la mission de notre établissement ?",
-      "answer": "Notre mission est de fournir une éducation de qualité, accessible à tous, et de promouvoir l'innovation et la recherche."
+      "answer": "Notre mission est de fournir une éducation de qualité, accessible à tous, et de promouvoir l'innovation et la recherche. Pour plus d'informations, consultez : https://ihec.rnu.tn/fr/ihec/mission-vision-et-valeurs"
     },
     {
       "id": 2,
       "category": "Informations Générales sur l'Établissement",
       "question": "Quels sont les valeurs fondamentales de notre école ?",
-      "answer": "Nos valeurs incluent l'intégrité, l'excellence académique, la diversité et l'engagement communautaire."
+      "answer": "Nos valeurs incluent l'intégrité, l'excellence académique, la diversité et l'engagement communautaire. Pour plus d'informations, consultez : https://ihec.rnu.tn/fr/ihec/mission-vision-et-valeurs"
     },
     {
       "id": 3,
@@ -22,19 +22,19 @@
       "id": 4,
       "category": "Informations Générales sur l'Établissement",
       "question": "Quelle est la durée moyenne d'obtention d'un diplôme ?",
-      "answer": "La durée moyenne est de 3 à 4 ans pour un diplôme de premier cycle."
+      "answer": "La durée moyenne est de 3 à 4 ans pour un diplôme de premier cycle. Pour plus d'informations, consultez : https://ihec.rnu.tn/fr"
     },
     {
       "id": 5,
       "category": "Informations Générales sur l'Établissement",
       "question": "Quels sont les partenariats académiques de l'établissement ?",
-      "answer": "Nous collaborons avec des universités internationales comme Harvard, Sorbonne, et l'Université de Tokyo."
+      "answer": "Nous collaborons avec des universités internationales comme Harvard, Sorbonne, et l'Université de Tokyo. Pour plus d'informations, consultez : https://ihec.rnu.tn/fr/international/partenariats-et-cooperations"
     },
     {
       "id": 6,
       "category": "Programmes et Cours",
       "question": "Quels sont les programmes de premier cycle offerts ?",
-      "answer": "Nous offrons des programmes en informatique, gestion, sciences sociales, et ingénierie."
+      "answer": "Nous offrons des programmes en informatique, gestion, sciences sociales, et ingénierie. Pour plus d'informations, consultez : https://ihec.rnu.tn/fr"
     },
     {
       "id": 7,
@@ -58,7 +58,7 @@
       "id": 10,
       "category": "Programmes et Cours",
       "question": "Y a-t-il des programmes d'échange internationaux ?",
-      "answer": "Oui, nous avons des accords avec plus de 50 universités à travers le monde pour des échanges étudiants."
+      "answer": "Oui, nous avons des accords avec plus de 50 universités à travers le monde pour des échanges étudiants. Pour plus d'informations, consultez : https://ihec.rnu.tn/fr"
     },
     {
       "id": 11,
@@ -94,13 +94,13 @@
       "id": 16,
       "category": "Vie Étudiante",
       "question": "Quelles activités extrascolaires sont proposées ?",
-      "answer": "Nous proposons des clubs sportifs, des associations culturelles, et des événements communautaires."
+      "answer": "Nous proposons des clubs sportifs, des associations culturelles, et des événements communautaires. Pour plus d'informations, consultez : https://ihec.rnu.tn/fr/accueil"
     },
     {
       "id": 17,
       "category": "Vie Étudiante",
       "question": "Y a-t-il des clubs étudiants actifs sur le campus ?",
-      "answer": "Oui, il y a plus de 50 clubs étudiants actifs, allant des clubs de débat aux clubs de robotique."
+      "answer": "Oui, il y a plus de 50 clubs étudiants actifs, allant des clubs de débat aux clubs de robotique. Pour plus d'informations, consultez : https://ihec.rnu.tn/fr/vie-etudiante1/clubs-etudiants"
     },
     {
       "id": 18,
@@ -124,7 +124,7 @@
       "id": 21,
       "category": "Ressources Académiques",
       "question": "Quelles sont les heures d'ouverture de la bibliothèque ?",
-      "answer": "La bibliothèque est ouverte du lundi au vendredi de 8h à 20h, et le samedi de 9h à 17h."
+      "answer": "La bibliothèque est ouverte du lundi au vendredi de 8h à 20h, et le samedi de 9h à 17h. Pour plus d'informations, consultez : https://ihec.rnu.tn/fr/vie-etudiante1/Bibliotheque-IHEC"
     },
     {
       "id": 22,
@@ -136,7 +136,7 @@
       "id": 23,
       "category": "Ressources Académiques",
       "question": "Comment accéder aux laboratoires de recherche ?",
-      "answer": "Les laboratoires sont accessibles sur réservation pour les étudiants inscrits dans des programmes de recherche."
+      "answer": "Les laboratoires sont accessibles sur réservation pour les étudiants inscrits dans des programmes de recherche. Pour plus d'informations, consultez : https://ihec.rnu.tn/fr/accueil"
     },
     {
       "id": 24,
@@ -449,6 +449,64 @@
       "category": "Services Administratifs et Carte Étudiante",
       "question": "Où puis-je obtenir une attestation d'inscription ou un certificat de scolarité ?",
       "answer": "Vous pouvez télécharger une attestation d'inscription depuis votre espace étudiant ou en faire la demande au bureau des inscriptions."
+    },
+    {
+      "id": 76,
+      "category": "Services Administratifs et Carte Étudiante",
+      "question": "Où puis-je obtenir une attestation d'inscription ou un certificat de scolarité ?",
+      "answer": "Vous pouvez télécharger une attestation d'inscription depuis votre espace étudiant ou en faire la demande au bureau des inscriptions."
+    },
+    {
+      "id": 77,
+      "category": "Services Administratifs et Carte Étudiante",
+      "question": "Où puis-je obtenir une attestation d'inscription ou un certificat de scolarité ?",
+      "answer": "Vous pouvez télécharger une attestation d'inscription depuis votre espace étudiant ou en faire la demande au bureau des inscriptions."
+    },
+    {
+      "id": 78,
+      "category": "Programmes et Cours",
+      "question": "Quel programme me convient le mieux en fonction de mes intérêts ?",
+      "answer": "Je peux vous aider à trouver le programme qui correspond le mieux à vos intérêts. Pouvez-vous me dire ce qui vous passionne ou les domaines dans lesquels vous aimeriez travailler ?",
+      "follow_up": {
+        "prompt": "Pouvez-vous me dire ce qui vous passionne ou les domaines dans lesquels vous aimeriez travailler ?",
+        "options": [
+          {
+            "interest": "Technologie et programmation",
+            "recommended_program": "Informatique",
+            "description": "Le programme en Informatique couvre les bases de la programmation, des systèmes d'information, et de la cybersécurité. Les carrières possibles incluent Développeur de logiciels, Analyste de données, et Ingénieur en cybersécurité."
+          },
+          {
+            "interest": "Gestion d'entreprise et leadership",
+            "recommended_program": "Gestion",
+            "description": "Le programme en Gestion se concentre sur la gestion d'entreprise, le marketing, et la finance. Les carrières possibles incluent Manager, Analyste financier, et Responsable marketing."
+          },
+          {
+            "interest": "Sciences sociales et comportement humain",
+            "recommended_program": "Sciences Sociales",
+            "description": "Le programme en Sciences Sociales explore les comportements humains, les sociétés, et les politiques publiques. Les carrières possibles incluent Sociologue, Conseiller en politiques publiques, et Travailleur social."
+          },
+          {
+            "interest": "Ingénierie et conception technique",
+            "recommended_program": "Ingénierie",
+            "description": "Le programme en Ingénierie forme des ingénieurs dans divers domaines tels que le génie civil, mécanique, et électrique. Les carrières possibles incluent Ingénieur civil, Ingénieur mécanique, et Ingénieur électrique."
+          },
+          {
+            "interest": "Analyse de données et intelligence artificielle",
+            "recommended_program": "Data Science",
+            "description": "Le master en Data Science approfondit les techniques d'analyse de données, de machine learning, et de big data. Les carrières possibles incluent Data Scientist, Analyste de données, et Ingénieur en machine learning."
+          },
+          {
+            "interest": "Gestion avancée et stratégie d'entreprise",
+            "recommended_program": "MBA",
+            "description": "Le MBA est conçu pour les professionnels souhaitant approfondir leurs connaissances en gestion d'entreprise. Les carrières possibles incluent Directeur général, Consultant en gestion, et Entrepreneur."
+          },
+          {
+            "interest": "Recherche académique et innovation",
+            "recommended_program": "Doctorat en Recherche",
+            "description": "Le doctorat en Recherche est destiné à ceux qui souhaitent poursuivre une carrière académique ou de recherche. Les carrières possibles incluent Chercheur, Professeur d'université, et Expert en R&D."
+          }
+        ]
+      }
     }
   ]
 }
